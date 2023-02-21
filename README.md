@@ -15,4 +15,4 @@
 ![image](https://github.com/Shi-chang/mini-project-android-weather-app/blob/master/app/src/main/res/drawable/Animation.gif)
 
 # Acknowledgements
-This is a group project. I would like to thank my great teammates Manping Zhao, Lin Han, Chen Chen for their hard work and the enjoyable cooperation we had on the project.
+This is a group project. I would like to thank my great teammates Manping Zhao, Lin Han, Chen Chen for their hard work and the enjoyable cooperation we had on the project. I would also like to thank https://openweathermap.org/ for providing the free service for this app.
