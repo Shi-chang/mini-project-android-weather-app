@@ -11,7 +11,7 @@
 2. Refractoring other team members' code.
 3. Writting the documentation for the majority of the project.
 
-# Project ERD
+# Project Demo
 ![image](https://github.com/Shi-chang/mini-project-android-weather-app/blob/master/app/src/main/res/drawable/Animation.gif)
 
 # Acknowledgements
