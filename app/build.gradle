@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'edu.northeastern.weatherapp'
+    namespace 'edu.northeastern.atyourservice'
     compileSdk 33
 
     defaultConfig {
-        applicationId "edu.northeastern.weatherapp"
+        applicationId "edu.northeastern.atyourservice"
         minSdk 27
         targetSdk 33
         versionCode 1
@@ -23,8 +23,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 }
 
